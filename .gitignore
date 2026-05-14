@@ -14,7 +14,7 @@ __pycache__/
 # Ignore only large raw datasets
 data/*.csv
 
-
+data/
 
 # OS files
 .DS_Store
