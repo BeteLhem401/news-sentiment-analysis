@@ -12,7 +12,8 @@ __pycache__/
 .vscode/
 
 # Ignore only large raw datasets
-data/raw/*.csv
+data/*.csv
+
 
 
 # OS files
